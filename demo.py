@@ -34,7 +34,7 @@ bool0 = True
 print('Hello my favourit number is ' + str(int0))
 #this causes an problem ending the string
 print('There's a problem here ')
-#to fix this we use the backslah charecter \ :
+#to fix this we use the backslash charecter \ :
 print('There\'s not problem here ')
 #numbers in python start with 0 instead of one eg:
 #+---+---+---+---+---+---+
