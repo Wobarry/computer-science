@@ -24,7 +24,7 @@ num += 2
 num-=2
 #integers or int are just normal numbers eg
 int0 = 7
-# there are also floats that store deccimal point numbers
+# there are also floats that store decimal point numbers
 float0 = 7.2
 #strings are a set of charecters eg:
 string0 ='Hello world'
