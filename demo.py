@@ -41,6 +41,14 @@ print('There\'s not problem here ')
 #| P | Y | T | H | O | N |
 #+---+---+---+---+---+---+
 #  0   1   2   3   4   5
-print(string0.1)
+print(string0[1])
 #this would print the e of Hello world
-
+#string functions:
+len(string0)
+#this returns the length of the string
+string0.upper()
+#this converts all of the charecters to upper case
+string0.lower()
+#this converts all of the string to lower case
+print(str(float0))
+#this turns the float into a string
