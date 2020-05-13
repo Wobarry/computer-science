@@ -1,4 +1,4 @@
-#comments use # 
+#comments use
 
 
 # print function
@@ -22,7 +22,7 @@ print(1%2)
 num += 2
 #-= operator
 num-=2
-#integers or int are just normal numbers eg
+#integers or int are just normal non decimal numbers eg.
 int0 = 7
 # there are also floats that store decimal point numbers
 float0 = 7.2
@@ -34,7 +34,7 @@ bool0 = True
 print('Hello my favourit number is ' + str(int0))
 #this causes an problem ending the string
 print('There's a problem here ')
-#to fix this we use the backslash charecter \ :
+#to fix this we use the backslash character \ :
 print('There\'s not problem here ')
 #numbers in python start with 0 instead of one eg:
 #+---+---+---+---+---+---+
